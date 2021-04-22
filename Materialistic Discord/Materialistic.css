@@ -746,6 +746,37 @@ box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 .lookFilled-1Gx00P.colorPrimary-3b3xI6 .giftIcon-ZxlWk5 { color:var(--accent-color-main); }
 .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover .giftIcon-ZxlWk5 { color:var(--accent-color-dark); }
 
+.tierUnlocked-25K6Kv {
+	color: var(--accent-color-main)!important;
+	background-color: var(--accent-color-dark)!important;
+}
+.tierMarkerBackground-3q29am {
+	background-color:var(--background-color-main)!important;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.barBackground-2EEiLw {
+	background-color: var(--accent-color-dark)!important;
+
+}
+.barForeground-3KglC8,
+.barSecondary-3B1aP2 {
+	background-color: var(--accent-color-main);
+}
+
+.selectedTier-1JkO7i .tierMarker-5HkGJ_ {
+	background-color: var(--accent-color-main)!important;
+}
+.selectedTier-1JkO7i .tierMarker-5HkGJ_ svg path,
+.tierMarkerAccomplished-2MiXeg svg path { fill:var(--accent-color-dark); }
+
+.tierMarkerInProgress-24LMzJ svg path { fill:var(--accent-color-main); }
+
+.tierMarkerAccomplished-2MiXeg.tierMarker-5HkGJ_ { background: var(--accent-color-main)!important; }
+
+.selectedTier-1JkO7i .tierMarkerLabelText-F_zS1F { color:var(--text-color)!important; }
+
+.tierMarkerLabelPlusIcon-1OS7E9 { color:var(--accent-color-main); } 
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
