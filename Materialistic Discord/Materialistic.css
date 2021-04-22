@@ -808,7 +808,8 @@ color:var(--text-color);
 }
 .headerSpotify-zpWxgT.header-2BwW8b,
 .headerXbox-3G-4PF.header-2BwW8b,
-.headerPlaying-j0WQBV.header-2BwW8b { 	
+.headerPlaying-j0WQBV.header-2BwW8b,
+.headerStreaming-2FjmGz.header-2BwW8b { 	
 background-color:var(--background-color-dark);
 	color:var(--text-color);
 }
