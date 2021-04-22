@@ -338,7 +338,8 @@ fill: var(--accent-color-dark)!important;
 .searchAnswer-3Dz2-q, 
 .searchFilter-2ESiM3,
 .highlight,
-.button-11zvza  {
+.button-11zvza,
+.lookFilled-1Gx00P.colorPrimary-3b3xI6  {
     color: var(--accent-color-main);
     background: var(--accent-color-dark);
 }
@@ -466,7 +467,7 @@ border-color:var(--accent-color-main)!important;
 }
 
 .container-3auIfb {
-	background-color: var(--background-color-dark)!important;
+	background-color: var(--accent-color-dark)!important;
 }
 
 .container-3w7J-x {
@@ -674,8 +675,7 @@ border-color:var(--accent-color-main)!important;
 }
 	
 .item-3HknzM.themed-OHr7kt[aria-controls="ADD_FRIEND-tab"],
-.item-PXvHYJ.themed-OHr7kt[aria-controls="Discord Nitro-tab"],
-.lookFilled-1Gx00P.colorPrimary-3b3xI6  {
+.item-PXvHYJ.themed-OHr7kt[aria-controls="Discord Nitro-tab"] {
 		color: var(--accent-color-main)!important;
 	background-color: var(--background-color-main)!important;
 }
