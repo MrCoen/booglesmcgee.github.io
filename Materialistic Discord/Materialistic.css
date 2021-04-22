@@ -132,8 +132,7 @@ background-color: var(--accent-color-main);
 .item-3HknzM.themed-OHr7kt[aria-controls="ADD_FRIEND-tab"]:hover,
 .item-PXvHYJ.themed-OHr7kt[aria-controls="Discord Nitro-tab"]:hover,
 .item-PXvHYJ.themed-OHr7kt[aria-selected="true"][aria-controls="Discord Nitro-tab"],
-.lookFilled-1Gx00P.colorPrimary-3b3xI6:hover,
-.selected-aXhQR6 .layout-2DM8Md  {
+.lookFilled-1Gx00P.colorPrimary-3b3xI6:hover  {
 	color: var(--accent-color-dark)!important;
 	background-color: var(--accent-color-main)!important;
 }
