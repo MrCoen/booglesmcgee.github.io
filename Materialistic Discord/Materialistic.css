@@ -768,6 +768,117 @@ box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 
 .tierMarkerLabelPlusIcon-1OS7E9 { color:var(--accent-color-main); } 
 
+.markup-2BOw-j code {
+	background-color:var(--background-color-main);
+	color:var(--text-color);
+}
+.headerNormal-T_seeN { background-color:var(--background-color-dark)!important; }
+
+.headerTagUsernameNoNickname-2_H881 {
+	color:var(--text-color);
+}
+.activityUserPopout-2yItg2 .headerTextNormal-2mGWX3 {
+	color:var(--accent-color-main)!important;
+}
+.timeBarUserPopout-AWPFf2 .barInner-3NDaY_ {
+	background-color:var(--accent-color-main);
+}
+
+.timeBarUserPopout-AWPFf2 .bar-3urHkF {
+	background-color:var(--accent-color-dark);
+}
+
+.timeBarUserPopout-AWPFf2 .textLeft-3EZXG6,
+.timeBarUserPopout-AWPFf2 .textRight-1XO5Ye {
+	color:var(--accent-color-main);
+}
+
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ {
+	border:none;
+	background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+}
+
+.lookOutlined-3sRXeN.colorWhite-rEQuAQ:hover {
+	border:none;
+	background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+.body-3iLsc4,
+.footer-1fjuF6 {
+background-color: var(--background-color-main)!important;	
+color:var(--text-color);
+}
+.headerSpotify-zpWxgT.header-2BwW8b,
+.headerXbox-3G-4PF.header-2BwW8b,
+.headerPlaying-j0WQBV.header-2BwW8b { 	
+background-color:var(--background-color-dark);
+	color:var(--text-color);
+}
+.closedFolderIconWrapper-2sTcE6,
+.expandedFolderBackground-1cujaW,
+.expandedFolderIconWrapper-Huv7rA { background-color: var(--accent-color-dark); }
+
+.expandedFolderIconWrapper-Huv7rA svg path { fill:var(--accent-color-main); }
+
+.container-3RCQyg .card-3RzMcx {
+	background-color: var(--background-color-main);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-3RzMcx .arrow-3bRNiS { color:var(--accent-color-main); }
+
+.modal-1k91nT .header-1TKi98 {
+	background-color:var(--background-color-dark);
+}
+.modal-1k91nT  .scroller-2hZ97C,
+.modal-1k91nT .footer-1FPmkC,
+.modal-1k91nT .footer-2gL1pp {
+	background-color:var(--background-color-main);
+}
+
+.modal-1k91nT .lookOutlined-3sRXeN.colorGreen-29iAKY {
+		border:none;
+	background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+}
+.modal-1k91nT .input-cIJ7To:not(.inputDefault-_djjkz) {
+	background-color: var(--background-color-main);
+	border: 1px solid var(--accent-color-main);
+	border-radius: 5px;
+}
+.modal-1k91nT .content-1LAB8Z { border-radius:0; }
+
+.channelTextArea-2VhZ6z.highlighted-2eSV1B { box-shadow:0 0 4px var(--accent-color-main); }
+
+.modal-1k91nT .css-gvi9bl-control:hover,
+.modal-1k91nT .css-6fzn47-control:hover,
+.modal-1k91nT .css-17e1tep-control:hover {
+    box-shadow:0 0 4px var(--accent-color-main);
+}
+
+.modal-1k91nT .css-gvi9bl-control,
+.modal-1k91nT .css-6fzn47-control,
+.modal-1k91nT .css-17e1tep-control {
+	background-color: var(--background-color-main);
+	border: 1px solid var(--accent-color-main);
+	border-radius: 5px;
+}
+
+.modal-1k91nT .css-1fhf191 svg path { fill:var(--accent-color-main); }
+
+.modal-1k91nT .css-3vaxre-menu { background-color: var(--background-color-main); }
+
+.modal-1k91nT .css-rzbxvl-option:hover {
+		background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+.modal-1k91nT .clear-1pMieT .icon-3cZ1F_:hover { color:var(--accent-color-main); }
+
+.container-3RCQyg .emptyChannelIcon-cc932w { background-color: var(--accent-color-dark); }
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
