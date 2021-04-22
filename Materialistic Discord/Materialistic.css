@@ -301,7 +301,7 @@ fill: var(--accent-color-dark)!important;
 
 .button-1ZiXG9,
 .button-1ZiXG9:hover,
-.theme-dark .children-19S4PO::after,
+.children-19S4PO::after,
 .menu-3sdvDG,
 .unicodeShortcut-15J8Ck  {
 	background: var(--background-color-dark);
@@ -316,7 +316,7 @@ fill: var(--accent-color-dark)!important;
 .inspector-S2gM3e,
 .platform-win .sidebar-2K8pFh,
 .sidebarRegionScroller-3MXcoP,
-.theme-dark .footer-2gL1pp,
+.footer-2gL1pp,
 .container-UC8Ug1,
 .quickswitcher-3JagVE {
 	background-color: var(--background-color-dark);
@@ -718,7 +718,6 @@ filter: invert(80%) sepia(100%) saturate(1099%) hue-rotate(210deg) brightness(10
 
 .subscribeTooltipWrapper-1JoUuw:after { border-bottom-color:var(--background-color-main); }
 
-.headerPlaying-j0WQBV,
 .card-3DjzTQ:hover{ background-color:var(--background-color-main); }
 
 .card-3DjzTQ,
