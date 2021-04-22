@@ -565,11 +565,6 @@ border-color:var(--accent-color-main)!important;
 	height: 30px;
 	margin-top: -5px;
 }
-.messageGroupWrapper-o-Zw7G:hover,
-.searchResult-9tQ1uo:hover {
-	background-color: var(--background-color-main);
-	box-shadow: 0 1px 2px var(--accent-color-main), 0 1px 2px var(--accent-color-main);
-}
 
 .anchor-3Z-8Bb .iconWrapper-2OrFZ1 {
     display: none;
