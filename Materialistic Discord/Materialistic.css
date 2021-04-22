@@ -11,52 +11,6 @@
 @import url('https://gibbu.github.io/BetterDiscord-Themes/AdjustableServerWidth/base.css');
 @import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
 
-/*Root vars for styling*/
-
-:root {
-	--accent-color-main: #b288e6;
-	--accent-color-dark: #322c3a;
-	--accent-color-darker: #251f2d;
-	--background-color-main: #212121;
-	--background-color-dark: #191919;
-	--background-color-darker: #131313;
-	--background-color-darkest: #040404;
-	--background-tertiary:var(--background-color-main);
-	--background-primary:var(--background-color-main);
-	--text-link: var(--accent-color-main);
-	--background-mentioned: var(--accent-color-darker);
-	--background-mentioned-hover: var(--accent-color-dark);
-	--radio-group-dot-foreground:var(--accent-color-main);
-	--button-no-accent: #a8a8a8;
-	--text-color: #cfcfcf;
-	--text-color-dark:#6D7178;
-	--bdfdb-blurple:var(--accent-color-main);
-	--scrollbar-thin-thumb: var(--accent-color-main);
-	--scrollbar-thin-track: transparent;
-	--scrollbar-auto-thumb: var(--accent-color-main);
-	--scrollbar-auto-track: var(--background-color-dark);
-	--scrollbar-auto-scrollbar-color-thumb: var(--accent-color-main);
-	--scrollbar-auto-scrollbar-color-track: var(--background-color-dark);
-	--channels-width: 200px;
-	--members-width: 200px;
-	--server-icon-size: 30px;
-	--server-icon-spacing: 7px;
-	--server-container-padding: 5px;
-	--main-font: Gilda+Display;
-	--code-font: Cutive Mono;
-	--rs-small-spacing: 2px;
-	--rs-large-spacing: 3px;
-	--rs-width: 2px;
-	--rs-avatar-shape: 50%;
-	--rs-online-color: #488558;
-	--rs-idle-color: #faa61a;
-	--rs-dnd-color: #ff6962;
-	--rs-offline-color: #636b75;
-	--rs-streaming-color: #643da7;
-	--rs-invisible-color: #747f8d;
-	--danger-color:var(--accent-color-main);
-}
-
 body,
 button,
 input,
@@ -338,8 +292,7 @@ fill: var(--accent-color-dark)!important;
 .searchAnswer-3Dz2-q, 
 .searchFilter-2ESiM3,
 .highlight,
-.button-11zvza,
-.lookFilled-1Gx00P.colorPrimary-3b3xI6  {
+.button-11zvza  {
     color: var(--accent-color-main);
     background: var(--accent-color-dark);
 }
@@ -761,6 +714,37 @@ filter: invert(80%) sepia(100%) saturate(1099%) hue-rotate(210deg) brightness(10
 .container-3iAQ-0 .cozy-3raOZG .messageContent-2qWWxC {
 	margin-bottom:8px;
 }
+
+.subscribeTooltipWrapper-1JoUuw {
+	background-color:var(--background-color-main);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.subscribeTooltipWrapper-1JoUuw:after { border-bottom-color:var(--background-color-main); }
+
+.headerPlaying-j0WQBV,
+.card-3DjzTQ:hover{ background-color:var(--background-color-main); }
+
+.card-3DjzTQ,
+.ctaBar-2UsjF2,
+.perk-2WeBWW {
+	 background-color:var(--background-color-main)!important; 
+box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.perksModal-fSYqOq,
+.tierBody-16Chc9 { background-color:var(--background-color-main)!important; }
+
+.tierHeaderLocked-1s2JJz {
+	background-color:var(--background-color-dark)!important;
+	color:var(--text-color)!important;
+}
+.lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    color: var(--accent-color-main)!important;
+    background: var(--accent-color-dark)!important;
+}
+.lookFilled-1Gx00P.colorPrimary-3b3xI6 .giftIcon-ZxlWk5 { color:var(--accent-color-main); }
+.lookFilled-1Gx00P.colorPrimary-3b3xI6:hover .giftIcon-ZxlWk5 { color:var(--accent-color-dark); }
 
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
