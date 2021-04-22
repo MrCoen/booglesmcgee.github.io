@@ -702,7 +702,8 @@ filter: invert(80%) sepia(100%) saturate(1099%) hue-rotate(210deg) brightness(10
 	background-color:var(--background-color-main);
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
-.markup-2BOw-j code {
+.markup-2BOw-j code,
+.messageAttachment-1aDidq {
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 .blockquoteContainer-U5TVEi .blockquoteDivider-2hH8H6 {
@@ -713,6 +714,52 @@ filter: invert(80%) sepia(100%) saturate(1099%) hue-rotate(210deg) brightness(10
 }
 .option-96V44q:after {
 	background:var(--background-color-main)!important;
+}
+
+.secondary-dIudih:hover,
+.tertiary-aMXF0g:hover:not(.disabled-3Njyym) {
+	color: var(--accent-color-dark);
+	background-color: var(--accent-color-main);
+}
+.secondary-dIudih,
+.tertiary-aMXF0g {
+	color: var(--accent-color-main);
+	background-color: var(--accent-color-dark);
+}
+
+.collapseButton-2ZsEjz {
+	color:var(--accent-color-main);
+}
+
+.channelHeader-3Gd2xq {
+	background-color: var(--background-color-dark);
+}
+.channel-3pEHab { padding-bottom:5px; }
+
+.scroller-tlc3kG {
+    padding-top: 0px;
+    padding-right: 5px!important;
+    padding-bottom: 0px;
+    padding-left: 5px;
+	background-color: var(--background-color-main);
+}
+
+.messages-3G3erD{
+	border-radius:0;
+		box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.messageContainer-gbhlwo {
+	border-radius:0;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+	padding:0;
+}	
+
+.channelHeader-3Gd2xq .closeButton-1152MI,
+.channelHeader-3Gd2xq .button-1-5Aqk {
+    margin-right: 8px;
+}
+.container-3iAQ-0 .cozy-3raOZG .messageContent-2qWWxC {
+	margin-bottom:8px;
 }
 
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
