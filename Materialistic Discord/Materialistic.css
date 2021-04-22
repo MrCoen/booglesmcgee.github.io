@@ -75,8 +75,6 @@ textarea,
 .icon-1S6UIr,
 .icon-3cZ1F_,
 .navButton-2gQCx-,
-.headerNormal-T_seeN .headerTag-2pZJzA,
-.header-2BwW8b,
 .side-8zPYf6 .header-2RyJ0Y,
 .colorHeaderSecondary-3Sp3Ft,
 .fieldTitle-3h2iLW.h5-18_1nd,
@@ -311,7 +309,6 @@ fill: var(--accent-color-dark)!important;
 
 .button-1ZiXG9.selected-LCBEAU,
 .topSectionNormal-2-vo2m,
-.headerNormal-T_seeN,
 .clickable-25tGDB .header-2V-4Sw:hover,
 .bd-addon-list .bd-addon-header,
 .searchHeader-2XoQg7,
@@ -325,7 +322,6 @@ fill: var(--accent-color-dark)!important;
 	background-color: var(--background-color-dark);
 }
 
-.body-3iLsc4,
 .bd-description-wrap,
 .bd-footer {
 background-color: var(--background-color-main);	
