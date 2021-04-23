@@ -113,7 +113,6 @@ color: var(--accent-color-main);
 .added-2hLRj3:after,
 .improved-1NJK-y:after,
 .fixed-3zCC84:after,
-.bd-addon-views .bd-view-button.selected,
 .bd-settings-group.collapsible .bd-settings-title::after,
 .checkbox-1ix_J3.checked-3_4uQ9 svg  {
 background-color: var(--accent-color-main);
@@ -184,8 +183,6 @@ background-color: var(--accent-color-main);
 }
 
 .container-3auIfb path,
-.bd-controls>.bd-addon-button svg,
-.bd-addon-views .bd-view-button.selected svg,
 .checkbox-1ix_J3.checked-3_4uQ9 path {
 	fill: var(--accent-color-dark);
 }
