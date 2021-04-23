@@ -164,8 +164,6 @@ background-color: var(--accent-color-main);
 .containerDefault--pIXnN:hover .name-23GUGE,
 .containerDefault--pIXnN:hover .actionIcon-PgcMM2,
 .clickable-3rdHwn .icon-22AiRD:hover .strikethrough-3Wiitd,
-.selected-aXhQR6 .layout-2DM8Md .avatar-3uk_u9,
-.selected-aXhQR6 .layout-2DM8Md .name-uJV0GL,
 .layout-2DM8Md:hover .avatar-3uk_u9,
 .layout-2DM8Md:hover .name-uJV0GL,
 .colorDefault-2K3EoJ .check-1JyqgN,
@@ -255,7 +253,6 @@ fill: var(--accent-color-dark)!important;
 .content-1o0f9g,
 .jumpToPresentBar-G1R9s6,
 .unread-1xRYoj,
-.selected-aXhQR6 .layout-2DM8Md ,
 .wrapper-3WhCwL:hover,
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover,
 .button-11zvza:hover,
@@ -590,9 +587,6 @@ border-color:var(--accent-color-main)!important;
 	fill:var(--accent-color-dark);
 }
 
-.wrapper-2Gsate {
-	background-color: var(--background-color-darker);
-}
 .channelName-1JRO3C {
     background: var(--background-color-main);
     color: var(--text-color);
