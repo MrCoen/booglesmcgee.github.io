@@ -596,7 +596,7 @@ border-color:var(--accent-color-main)!important;
 .item-3HknzM.themed-OHr7kt[aria-controls="ADD_FRIEND-tab"],
 .item-PXvHYJ.themed-OHr7kt[aria-controls="Discord Nitro-tab"] {
 		color: var(--accent-color-main)!important;
-	background-color: var(--background-color-main)!important;
+	background-color: var(--accent-color-dark)!important;
 }
 
 .peopleListItem-2nzedh {
