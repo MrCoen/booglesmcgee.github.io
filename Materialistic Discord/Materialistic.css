@@ -855,8 +855,204 @@ background-color:var(--background-color-dark);
 
 .container-3RCQyg .emptyChannelIcon-cc932w { background-color: var(--accent-color-dark); }
 
-/*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
+.colorDanger-4gmAY0 {
+			background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+.colorDanger-4gmAY0 .button-2DhvE9 {
+			border:none;
+	background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+}
 
+.colorDanger-4gmAY0 .button-2DhvE9:hover {
+		background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+form .root-1gCeng { background-color:var(--background-color-dark)!important; }
+
+.rtcConnectionQualityFine-2J6i8z .pingForeground-2uAOZ3,
+.rtcConnectionStatusConnected-VRZDjy { color:var(--accent-color-main); }
+
+.button-1YfofB.buttonColor-7qQbGO.fauxDisabled-2ik0Vw {
+			background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+	width:5px;
+}
+
+.button-1YfofB.buttonColor-7qQbGO.fauxDisabled-2ik0Vw:hover {
+			background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+.wrapper-24pKcD .container-1giJp5 {
+	box-shadow: 0 -1px 2px var(--accent-color-main);
+	background-color:var(--background-color-dark);
+}
+
+.actionButtons-14eAc_ { 
+margin-left:4px; 
+}
+
+.form-26zE04 .content-1LAB8Z { 
+background-color:var(--background-color-dark); 
+}
+
+.form-26zE04 .footer-2gL1pp { background-color:var(--background-color-main); }
+
+.animatorTop-2Y7x2r .container-2x5lvQ .header-2C89wJ { 
+background-color:var(--background-color-dark); 
+color:var(--text-color);
+}
+
+.animatorTop-2Y7x2r .container-2x5lvQ section { 
+background-color:var(--background-color-main); 
+color:var(--text-color);
+}
+.container-2x5lvQ .secured-1Yihly,
+.container-2x5lvQ .debugButton-1Zec0y { color:var(--accent-color-main); }
+
+.container-2x5lvQ .secured-1Yihly:before { filter:invert(0%) sepia(100%) saturate(1099%) hue-rotate(216deg) brightness(100%) contrast(100%) }
+
+.mention-1f5kbO:active {
+	background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+
+.clickable-1JJAn8:hover .layout-2DM8Md {
+		background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+.clickable-1JJAn8:hover .layout-2DM8Md .activityText-yGKsKm {
+		color:var(--accent-color-dark);
+}
+
+.rail-2CbP6L .wrapper-2Gsate {
+	background-color: var(--background-color-darker);
+}
+
+.section-Kprrfe .selected-3xBBKs {
+	margin-top: 10px;
+    margin-left: 12px;
+	background-color:var(--accent-color-dark); 
+	}
+
+.section-Kprrfe .selected-3xBBKs .icon-2VCx8O { color:var(--accent-color-main); }
+
+.scroller-3gAZLs .listItems-1uJgMC {
+	top:0px!important;
+	left:0px!important;
+	right:0px!important;
+}
+
+.scroller-3gAZLs .itemWrapper-14KrHY {
+	background-color: var(--background-color-main);
+}
+
+.scroller-3gAZLs .itemWrapper-14KrHY .selected-1Tbx07 {
+			background-color:var(--background-color-main);
+}
+
+.selected-1Tbx07 .usageWrapper-UN_ki6 .colorInteractiveActive-3Ip9Eu {
+	color:var(--accent-color-main);
+}
+
+.selected-1Tbx07 .usageWrapper-UN_ki6 .option-1B5ZV8 {
+		background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+.selected-1Tbx07 .usageWrapper-UN_ki6 .optionalHeader-mLQoIx {
+	padding-left:0;
+		background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+}
+.focusLock-Ns3yie .footer-2gL1pp,
+.focusLock-Ns3yie .content-1LAB8Z,
+.focusLock-Ns3yie .header-3ydO_m,
+.focusLock-Ns3yie .header-3bB_GQ,
+.focusLock-Ns3yie .header-2xfEYR,
+.focusLock-Ns3yie .phoneVerificationModal-OzcDc3,
+.phoneField-38N1bJ .inputField-aNPXsv {
+	background-color:var(--background-color-main);
+}
+
+.focusLock-Ns3yie .content-1LAB8Z {
+	border-radius:0;
+}
+
+.questionMark-3qBhGj .icon-3zLVMD {
+	color:var(--accent-color-main);
+}
+.questionMark-3qBhGj {
+	background-color:var(--accent-color-dark);
+}
+
+.questionMark-3qBhGj:hover .icon-3zLVMD {
+	color:var(--accent-color-dark);
+}
+.questionMark-3qBhGj:hover {
+	background-color:var(--accent-color-main);
+}
+
+
+.phoneVerificationModal-OzcDc3 .field-wKpjTl {
+	background-color: var(--background-color-main);
+	border: 1px solid var(--accent-color-main);
+	border-radius: 5px;
+}
+
+.input-cIJ7To.focused-1mmYsC, 
+.input-cIJ7To:focus, 
+.input-cIJ7To:hover,
+.input-cIJ7To { border-color:var(--accent-color-main); }
+
+.contentColumnDefault-1VQkGM .accountList-33MS45,
+.contentColumnDefault-1VQkGM .accountBtn-2Nozo3 .accountBtnInner-sj5jLs {
+	background-color: var(--background-color-main);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.contentColumnDefault-1VQkGM .connectionHeader-2MDqhu,
+.contentColumnDefault-1VQkGM .connectionOptionsWrapper-3KIj1Z {
+	background-color: var(--background-color-main);
+}
+
+.contentColumnDefault-1VQkGM .connectionList-3pzR-1 {
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.contentColumnDefault-1VQkGM .feature-2w65J5 {
+		background-color: var(--background-color-main);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.paypalInput-3MddcM {
+	border-color:var(--accent-color-main)!important;
+}
+
+.modal-1qeMox .lookOutlined-3sRXeN.colorBrand-3pXr91 {
+	border:none;
+			background-color:var(--accent-color-dark);
+	color:var(--accent-color-main);
+}
+
+.modal-1qeMox .lookOutlined-3sRXeN.colorBrand-3pXr91:hover {
+	border:none;
+			background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+.codeRedemptionRedirect-1wVR4b {
+	border:none;
+	color:var(--text-color);
+			background-color: var(--background-color-main)!important;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+/*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 .typeWindows-1za-n7 {
 	height: 18px;
 	width: 100vw;
