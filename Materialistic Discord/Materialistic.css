@@ -541,8 +541,7 @@ border-color:var(--accent-color-main)!important;
 
 .messageGroupWrapper-o-Zw7G,
 .searchResult-9tQ1uo,
-.searchResultsWrap-3-pOjs,
-.feature-2w65J5   {
+.searchResultsWrap-3-pOjs   {
 	background-color: var(--background-color-main);
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
