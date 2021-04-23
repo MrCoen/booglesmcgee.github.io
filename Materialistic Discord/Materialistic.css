@@ -1035,6 +1035,200 @@ color:var(--text-color);
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
+.sidebar-CFHs9e .header-2RyJ0Y .themed-OHr7kt {
+	color:var(--text-color);
+}
+.radioBar-bMNUI- {
+	background-color: var(--background-color-main);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.radioBar-bMNUI- .title-3BE6m5 {
+	color:var(--text-color);
+}
+
+.radioBar-bMNUI- svg path {
+	fill:var(--accent-color-dark);
+}
+
+.connectionDelete-2Odoln:hover { color:var(--accent-color-main); }
+
+.container-2_Tvc_ .title-31JmR4 { color:var(--text-color); }
+
+.connectionOptions-YE9FAM .subEnabledTitle-2ElRo_ { color:var(--text-color); }
+
+.lookLink-9FtZy-.colorPrimary-3b3xI6 { color:var(--text-color)!important; }
+
+.bar-2Qqk5Z {
+	background: var(--accent-color-dark)!important;
+}
+
+.css-gvi9bl-control,
+.css-6fzn47-control,
+.css-17e1tep-control,
+.css-gvi9bl-control:hover,
+.css-17e1tep-control:hover,
+.css-6fzn47-control:hover {
+	border-color:var(--accent-color-main);
+}
+
+.css-ku6vh5-indicatorContainer,
+.css-ku6vh5-indicatorContainer:hover {
+color:var(--accent-color-main);
+}
+
+.css-3vaxre-menu {
+background-color: var(--background-color-main);
+color:var(--text-color);
+box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.soundRow-7krrdT:hover .soundIcon-2ketvd .icon-GiGwrE { color:var(--accent-color-main); }
+
+.card-FDVird:before { 
+background-color: var(--background-color-main)!important; 
+border:none;
+}
+
+.editIcon-13gaox {	
+	filter: invert(42%) sepia(100%) saturate(1099%) hue-rotate(210deg) brightness(100%) contrast(100%);
+}
+
+.lookGhost-2Fn_0-.colorGrey-2DXtkV {
+			color: var(--accent-color-main)!important;
+	background-color: var(--accent-color-dark)!important;
+}
+
+.container-CpszHS:not(.disabled-29eJ21):hover {
+	border-color:rgba(178, 136, 230, 0.3)
+}
+
+.activeGame-14JI7o.notDetected-33MY4s { 
+background-color: var(--background-color-main);
+color:var(--text-color);
+box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.addGamePopout-2RY8Ju { 
+background-color: var(--background-color-main)!important;
+box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23)!important;
+}
+
+.addGamePopout-2RY8Ju .cancelButton-10XRsm { color:var(--text-color)!important; }
+
+.notificationSettings-1NQKPR .wrapper-3jrx9n {
+	border: 2px solid var(--accent-color-main);
+}
+.wrapper-3jrx9n .selected-mKYnfr.option-n0icdO {
+	border-color:var(--accent-color-main);
+	background-color: var(--accent-color-main);
+}
+.wrapper-3jrx9n .option-n0icdO:hover { background-color: var(--accent-color-main); }
+.bd-sidebar-header .bd-icon:hover { fill:var(--accent-color-main); }
+
+.floating-window.resizable {
+	background-color: var(--background-color-main);
+color:var(--text-color);
+box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.floating-window-titlebar {
+		background-color: var(--background-color-darker);
+color:var(--text-color);
+}
+
+.floating-window #bd-editor-controls {
+			background-color: var(--background-color-dark);
+color:var(--text-color);
+}
+
+#bd-editor-controls button {
+	background-color: var(--accent-color-dark);
+color:var(--accent-color-main);
+}
+
+#bd-editor-controls button:hover {
+	background-color: var(--accent-color-main);
+color:var(--accent-color-dark);
+}
+
+.checkbox-3kaeSU .checkboxInner-3yjcPe span {
+	border-color:var(--accent-color-main)!important;
+}
+
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span {
+		background-color: var(--accent-color-main);
+}
+
+.checkbox-3kaeSU .checkboxInner-3yjcPe .checkboxElement-1qV33p:checked+span:after {
+	border-color:var(--accent-color-dark);
+}
+
+.monaco-editor .margin { 
+background-color: var(--background-color-dark)!important;
+}
+.bd-controls>.bd-addon-button svg {
+	fill:var(--accent-color-main);
+}
+.bd-controls>.bd-addon-button:hover svg {
+	fill:var(--accent-color-dark);
+}
+
+.bd-search-wrapper>svg {
+	fill:var(--accent-color-main);
+}
+
+.bd-addon-views .bd-view-button svg {
+	fill:var(--accent-color-main);
+}
+
+.bd-addon-views .bd-view-button {
+	background-color:var(--accent-color-dark);
+}
+
+.bd-addon-views .bd-view-button.selected svg {
+	fill:var(--accent-color-dark);
+}
+
+.bd-addon-views .bd-view-button.selected {
+	background-color:var(--accent-color-main);
+}
+.bd-button:hover {
+	background-color:var(--accent-color-main);
+	color:var(--accent-color-dark);
+}
+
+.layer-v9HyYc .menu-3sdvDG {
+	margin-left:22px;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.layer-v9HyYc .container-enaOkj {
+		background-color: var(--background-color-dark);
+		box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.selected-31Nl7x .header-2V-4Sw {
+	background-color: var(--background-color-dark);
+}
+
+.messagesPopoutWrap-1MQ1bW {
+background-color: var(--background-color-dark);
+}
+
+.featureGrid-3-fNl- .feature-2w65J5 {
+		background-color: var(--background-color-main);
+		box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.peopleListItem-2nzedh:hover {
+	background-color: var(--background-color-main);
+}
+
+.actionButton-uPB8Fs.highlight-Lf97TE { 
+background-color: var(--accent-color-dark);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 .typeWindows-1za-n7 {
 	height: 18px;
