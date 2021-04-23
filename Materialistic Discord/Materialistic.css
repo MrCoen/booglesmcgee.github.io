@@ -70,7 +70,6 @@ textarea,
 .icon-3cZ1F_,
 .navButton-2gQCx-,
 .side-8zPYf6 .header-2RyJ0Y,
-.colorHeaderSecondary-3Sp3Ft,
 .fieldTitle-3h2iLW.h5-18_1nd,
 .menu-319q29,
 .defaultValue-3gC7yw .markValue-2DwdXI,
@@ -950,10 +949,6 @@ textarea,
 	background-color: var(--accent-color-dark);
 	color: var(--accent-color-main);
 	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-}
-
-form .root-1gCeng {
-	background-color: var(--background-color-dark)!important;
 }
 
 .rtcConnectionQualityFine-2J6i8z .pingForeground-2uAOZ3,
