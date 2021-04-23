@@ -265,7 +265,7 @@ fill: var(--accent-color-dark)!important;
 .actionButton-uPB8Fs,
 .bd-button {
 	color: var(--accent-color-main);
-	background-color: var(--background-color-dark);
+	background-color: var(--accent-color-dark);
 }
 .keybindShortcut-1BD6Z1 span {
 	color: var(--accent-color-dark)!important;
