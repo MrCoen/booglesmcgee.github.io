@@ -22,7 +22,6 @@ textarea,
 	font-family: var(--main-font);
 }
 
-.base-1x0h_U,
 .name-1jkAdW,
 .tierTooltipTitle-3AtaZT,
 .markup-2BOw-j,
@@ -36,7 +35,6 @@ textarea,
 .side-8zPYf6 .themed-OHr7kt,
 .header-1-dBpZ,
 .username-31C1TQ,
-.colorHeaderPrimary-26Jzh-,
 .lookLink-9FtZy-.colorPrimary-3b3xI6,
 .colorStandard-2KCXvj,
 .match-38WbBN,
@@ -535,10 +533,6 @@ border-color:var(--accent-color-main)!important;
 	border-top: thin solid var(--accent-color-main);
 }
 
-.base-1x0h_U {
-	font-weight: 500;
-	color: var(--text-color);
-}
 .header-ykumBX {
 	position: relative;
 	padding: 16px;
