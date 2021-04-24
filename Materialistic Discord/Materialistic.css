@@ -1356,6 +1356,92 @@ textarea,
 	background-color: var(--accent-color-dark);
 }
 
+.channelTextArea-rNsIhG .autocomplete-1vrmpx {
+	background-color: var(--background-color-main);
+}
+
+.autocompleteRowVertical-q1K4ky .selected-1Tbx07 {
+	background-color: var(--accent-color-main);
+}
+
+.selected-1Tbx07 .colorInteractiveActive-3Ip9Eu,
+.selected-1Tbx07 .colorInteractiveNormal-PB7JN3 {
+	color: var(--accent-color-dark);
+}
+
+.wrapper-2IKwZK .description-QP9Ktn,
+.wrapper-2IKwZK .source-3DBj4z {
+	color: var(--text-color);
+}
+
+.wrapper-1-Fsb8.categoryHeader-O1zU94 {
+	background-color: var(--background-color-dark);
+}
+
+.wrapper-2siovq .icon-2VCx8O {
+	color: var(--accent-color-main);
+}
+
+.wrapper-2siovq .icon-2VCx8O svg path {
+	fill: var(--accent-color-dark);
+}
+
+.selected-1Tbx07 .autocompleteRowIcon-2VJmzt .icon-3ZzoN7 {
+	color: var(--accent-color-dark);
+}
+
+.form-2fGMdU .container-2fRDfG {
+	background-color: var(--accent-color-main);
+}
+
+.form-2fGMdU .container-2fRDfG .colorHeaderSecondary-3Sp3Ft,
+.form-2fGMdU .container-2fRDfG .closeButton-37O8QC {
+	color: var(--accent-color-dark);
+}
+
+.repliedMessage-VokQwo:before {
+	border-left: var(--spine-width) solid var(--accent-color-main);
+	border-bottom: 0 solid var(--accent-color-main);
+	border-right: 0 solid var(--accent-color-main);
+	border-top: var(--spine-width) solid var(--accent-color-main);
+}
+
+.cardWrapper-2R6-SX .checkmark-3rush5 {
+	background-color: var(--accent-color-main);
+	color: var(--accent-color-dark);
+}
+
+.radioBar-bMNUI- .foreground-SshK2E {
+	fill: var(--accent-color-main);
+}
+
+.inputWrapper-31_8H8 .inputPrefix-1gzNds {
+	color: var(--accent-color-main);
+}
+
+.switchIcon-_4Efyi path {
+	fill: var(--accent-color-main);
+}
+
+.addMemberRow-3-w-9X.selectedRow-1QP7qb,
+.addMemberRow-3-w-9X {
+	background-color: var(--background-color-main);
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.addMemberRow-3-w-9X.selectedRow-1QP7qb svg path,
+.addMemberRow-3-w-9X svg path {
+	fill: var(--accent-color-main);
+}
+
+.root-1gCeng {
+	background-color: var(--background-color-main)!important;
+}
+
+.colorStatusGreen-2saF4_.protip-283HFv {
+	color: var(--accent-color-main);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 .typeWindows-1za-n7 {
 	height: 18px;
