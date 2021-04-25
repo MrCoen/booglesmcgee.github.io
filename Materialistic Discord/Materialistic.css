@@ -1651,6 +1651,73 @@ svg.icon-JJBzjE.lighten-2aYaaU {
   color: var(--accent-color-main)!important;
 }
 
+.categoryItem-1QIroW.selectedCategoryItem-FHKU_o .itemInner-gPkiWb {
+  background-color: var(--accent-color-main);
+}
+
+.categoryItem-1QIroW.selectedCategoryItem-FHKU_o .name-uJV0GL {
+  color: var(--accent-color-dark);
+}
+
+.categoryItem-1QIroW.selectedCategoryItem-FHKU_o .itemInner-gPkiWb .avatar-3uk_u9 path {
+  fill: var(--accent-color-dark);
+}
+
+.bd-server-card,
+.bd-server-card:hover,
+.bd-server-card:focus {
+  background-color: var(--background-color-main)!important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+#bd-pub-button {
+  border-radius: 50%;
+  background-color: var(--accent-color-dark);
+  color: var(--accent-color-main);
+  font-size: 10px;
+  line-height: 27px;
+  height: 27px;
+  transition: none;
+}
+
+#bd-pub-button:hover {
+  background-color: var(--accent-color-main);
+  color: var(--accent-color-dark);
+}
+
+#bd-pub-li {
+  height: 27px;
+}
+
+.lookLink-9FtZy-.colorBrand-3pXr91 {
+  color: var(--accent-color-main);
+}
+
+.lookLink-9FtZy-.colorBrand-3pXr91:hover .contents-18-Yxp {
+  background-image: none;
+  color: var(--accent-color-main);
+}
+
+.avatarUploader-3XDtmn .sizeInfo-SKMPPw {
+  color: var(--accent-color-main);
+}
+
+.containerDragAfter-Zk9oyx:before,
+.containerDragBefore-1YqewQ:before,
+.containerDragAfter-3Fp7LC:before,
+.containerDragAfter-3Fp7LC:after,
+.containerDragBefore-3iTCc7:before {
+  background-color: var(--accent-color-main);
+}
+
+.notice-3bPHh-.colorDanger-4gmAY0 {
+  border-radius: 0;
+}
+
+.notice-3bPHh-.colorDanger-4gmAY0 .closeButton-3cJIM4 {
+  filter: invert(120%) sepia(100%) saturate(1099%) hue-rotate(216deg) brightness(100%) contrast(100%);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
