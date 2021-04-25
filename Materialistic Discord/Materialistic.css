@@ -435,7 +435,7 @@ textarea,
 }
 
 .name-23GUGE {
-	font-size: 13px;
+	font-size: var(--main-font-size);
 }
 
 .iconContainer-1BBaeJ {
@@ -478,7 +478,7 @@ textarea,
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	font-size: 12px;
+	font-size: var(--main-font-size);
 	font-weight: 500;
 	text-align: center;
 	transition: all 0.15s ease-in-out;
@@ -515,7 +515,7 @@ textarea,
 }
 
 .name-uJV0GL {
-	font-size: 14px;
+	font-size: var(--main-font-size);
 	line-height: 20px;
 }
 
@@ -525,14 +525,14 @@ textarea,
 }
 
 .container-2ax-kl {
-	font-size: 13px;
+	font-size: var(--main-font-size);
 	text-transform: none;
 	color: var(--text-color);
 	font-weight: 500;
 }
 
 .members-1998pB .membersGroup-v9BXpm {
-	font-size: 13px;
+	font-size: var(--main-font-size);
 	text-transform: none;
 	color: var(--accent-color-main)!important;
 	font-weight: 500;
@@ -1480,14 +1480,14 @@ textarea,
 	content: "Materialistic";
 	color: var(--text-color);
 	font-family: var(--main-font);
-	font-size: 11px;
+	font-size: var(--secondary-font-size);
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
 	content: "v1.0.0";
 	color: var(--accent-color-main);
 	font-family: var(--code-font);
-	font-size: 9px;
+	font-size: var(--subtext-font-size);
 }
 
 .typeWindows-1za-n7 > .wordmark-2iDDfm > svg {
