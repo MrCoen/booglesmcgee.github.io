@@ -1717,6 +1717,72 @@ svg.icon-JJBzjE.lighten-2aYaaU {
   filter: invert(120%) sepia(100%) saturate(1099%) hue-rotate(216deg) brightness(100%) contrast(100%);
 }
 
+.messageContainer-1ei2zM .jumpButton-2dvRSC:hover {
+  background-color: var(--accent-color-main);
+}
+
+.messageContainer-1ei2zM .jumpButton-2dvRSC {
+  background-color: var(--accent-color-dark);
+}
+
+.messageContainer-1ei2zM .jumpButton-2dvRSC .text-3KVtey {
+  color: var(--accent-color-main);
+}
+
+.messageContainer-1ei2zM .jumpButton-2dvRSC:hover .text-3KVtey {
+  color: var(--accent-color-dark);
+}
+
+.recentMentionsPopout-3rCiI6 .channel-3pEHab {
+  margin-bottom: 16px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.toast-g4bfgI.colorSuccess-6GreWs .bg-8df5St {
+  background-color: var(--accent-color-main);
+}
+
+.toast-g4bfgI.colorSuccess-6GreWs .inner-6Fsw34 {
+  color: var(--accent-color-dark);
+}
+
+.messageContainer-gbhlwo .jumpButton-2F6EMx:hover {
+  background-color: var(--accent-color-main);
+}
+
+.messageContainer-gbhlwo .jumpButton-2F6EMx {
+  background-color: var(--accent-color-dark);
+}
+
+.messageContainer-gbhlwo .jumpButton-2dvRSC .text-3KVtey {
+  color: var(--accent-color-main);
+}
+
+.messageContainer-gbhlwo .jumpButton-2dvRSC:hover .text-3KVtey {
+  color: var(--accent-color-dark);
+}
+
+.bd-toast.toast-info {
+  background-color: var(--accent-color-main);
+  color: var(--accent-color-dark);
+  opacity: 0.9;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.bd-toast {
+  background-color: var(--accent-color-main);
+  color: var(--accent-color-dark);
+  opacity: 0.9;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.bd-toast.toast-success {
+  background-color: var(--accent-color-main);
+  color: var(--accent-color-dark);
+  opacity: 0.9;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
