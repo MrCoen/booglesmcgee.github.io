@@ -1442,6 +1442,56 @@ textarea,
 	color: var(--accent-color-main);
 }
 
+.categorySection-2sgp74 .arrow-gKvcEx path { 
+  fill:var(--accent-color-main);
+}
+
+.categorySection-2sgp74 .wrapper-1-Fsb8 {
+  background-color:var(--background-color-dark);
+}
+
+.emojiPickerInExpressionPicker-3IzIcv .categoryList-2Kzf65  {
+  background-color:var(--background-color-darker);
+}
+
+.emojiPickerListWrapper-fz8KNK .listItems-1uJgMC {
+  left:0px!important;
+}
+
+.list-donH_Z .categoryItemDefaultCategorySelected-_HCKoz .categoryIcon-1SvUHG {
+  background-color: var(--accent-color-dark);
+  color: var(--accent-color-main);
+}
+
+.list-donH_Z .categoryItemDefaultCategorySelected-_HCKoz:hover .categoryIcon-1SvUHG {
+  background-color: var(--accent-color-main);
+  color: var(--accent-color-dark);
+}
+
+.list-donH_Z .categoryItemDefaultCategory-aBZ6nJ {
+  background-color: var(--accent-color-dark);
+}
+
+.list-donH_Z .categoryItemDefaultCategory-aBZ6nJ path {
+  fill: var(--accent-color-main);
+}
+
+.list-donH_Z .categoryItemDefaultCategory-aBZ6nJ:hover {
+  background-color: var(--accent-color-main);
+}
+
+.list-donH_Z .categoryItemDefaultCategory-aBZ6nJ:hover path {
+  fill: var(--accent-color-dark);
+}
+
+.emojiItem-14v6tW.emojiItemSelected-1aLkfV {
+  background-color: var(--accent-color-dark);
+}
+
+.categorySection-2sgp74 .header-19cWci.interactive-BzuinF:hover:hover {
+	color: var(--accent-color-main);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 .typeWindows-1za-n7 {
 	height: 18px;
