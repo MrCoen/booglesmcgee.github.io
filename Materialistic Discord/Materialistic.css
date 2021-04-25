@@ -227,7 +227,6 @@ textarea,
 .circleIconButton-1QV--U:hover,
 .activeButton-rvKcqq,
 .activeButton-rvKcqq:hover,
-.jumpButton-3DTcS_,
 .jumpButton-3DTcS_:hover,
 .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,
 .navButtonActive-1MkytQ,
@@ -259,7 +258,8 @@ textarea,
 }
 
 .actionButton-uPB8Fs,
-.bd-button {
+.bd-button,
+.jumpButton-3DTcS_ {
   color: var(--accent-color-main);
   background-color: var(--accent-color-dark);
 }
