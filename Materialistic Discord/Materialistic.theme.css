@@ -37,6 +37,9 @@
 	--server-container-padding: 5px;
 	--main-font: Gilda+Display;
 	--code-font: Cutive Mono;
+	--main-font-size:13px;
+	--secondary-font-size:11px;
+	--subtext-font-size:9px;
 	--rs-small-spacing: 2px;
 	--rs-large-spacing: 3px;
 	--rs-width: 2px;
