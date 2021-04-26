@@ -288,10 +288,13 @@ textarea,
 
 .button-1ZiXG9,
 .button-1ZiXG9:hover,
-.children-19S4PO:after,
 .menu-3sdvDG,
 .unicodeShortcut-15J8Ck {
   background: var(--background-color-dark);
+}
+
+.children-19S4PO:after {
+  background: var(--background-color-dark)!important;
 }
 
 .button-1ZiXG9.selected-LCBEAU,
