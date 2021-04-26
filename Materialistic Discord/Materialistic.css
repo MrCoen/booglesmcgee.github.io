@@ -317,7 +317,7 @@ textarea,
 }
 
 .categoryFadeBlurple-1j72_A {
-  background-color: #b288e6CC!important;
+  background-color: var(--accent-color-opacity)!important;
 }
 
 .channelTextArea-2VhZ6z .scrollableContainer-2NUZem,
