@@ -1802,6 +1802,20 @@ svg.icon-JJBzjE.lighten-2aYaaU {
   border-left: 1px solid var(--accent-color-dark);
 }
 
+.wrapper-35wsBm {
+  background-color: var(--background-color-main);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.reaction-1hd86g {
+  background-color: var(--background-color-main);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.reactionCount-2mvXRV {
+  color: var(--accent-color-main);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
