@@ -1783,6 +1783,25 @@ svg.icon-JJBzjE.lighten-2aYaaU {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 
+.toolbar-2bjZV7 {
+  background-color: var(--background-color-dark);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.toolbar-2bjZV7 .active-2HPddW .icon-KgGMGo,
+.toolbar-2bjZV7 .hover-28QbSq:hover .icon-KgGMGo {
+  color: var(--accent-color-dark);
+  background-color: var(--accent-color-main);
+}
+
+.toolbar-2bjZV7 .icon-KgGMGo {
+  color: var(--accent-color-main);
+}
+
+.toolbar-2bjZV7 .divider-24xeUg {
+  border-left: 1px solid var(--accent-color-dark);
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
