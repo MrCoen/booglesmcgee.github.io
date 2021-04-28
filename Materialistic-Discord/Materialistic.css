@@ -1819,6 +1819,157 @@ svg.icon-JJBzjE.lighten-2aYaaU {
   color: var(--accent-color-main);
 }
 
+.layer-3QrUeG[aria-label*=SETTINGS] {
+    align-items: center;
+    justify-content: center;
+    background: rgba(0,0,0,0.4);
+    z-index: 12;
+	display: flex;
+    top: -28px;
+	padding: 0 30px;
+}
+
+.layer-3QrUeG {
+    opacity: 1 !important;
+    transform: none !important;
+    top: 0;
+    padding-top: 0;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .standardSidebarView-3F1I7i {
+    animation: fadeIn 1.5s;
+    border-radius: 5px;
+    background: var(--background-color-darker);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 4px var(--accent-color-main);
+    width: 100%;
+    min-width: 960px;
+    max-width: 960px;
+    height: 75vh;
+    max-height: 650px;
+    min-height: 400px;
+    padding-top: 30px;
+    top: 0;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .sidebarRegion-VFTUkN {
+    flex: unset;
+    z-index: 10;
+    border-right: 1px solid var(--accent-color-dark);
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
+    flex: auto;
+}
+
+
+.layer-3QrUeG[aria-label*=SETTINGS] .sidebarRegion-VFTUkN .sidebar-CFHs9e {
+    padding: 10px 0;
+    width: auto;
+}
+
+.layer-3QrUeG[aria-label=USER_SETTINGS] .side-8zPYf6 > .item-PXvHYJ {
+    display: flex;
+    align-items: center;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .sidebarRegion-VFTUkN .item-PXvHYJ {
+    margin: 3px 20px;
+    font-size: var(--font-size-main);
+    padding: 10px;
+    border-radius: 5px;
+    color: var(--text-color);
+    line-height: normal;
+    min-width: 155px;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy {
+    flex: unset;
+    flex-grow: 1;
+    background: transparent;
+    position: static;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy::before {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid var(--accent-color-dark);
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    background: var(--background-color-darkest);
+    z-index: 0;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .contentColumnDefault-1VQkGM {
+    padding: 20px;
+    flex-grow: 1;
+    max-width: unset;
+    min-width: unset;
+    display: flex;
+    flex-direction: column;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy h2 {
+    font-weight: 500;
+    font-size: var(--main-font-size);
+    color: var(--text-color);
+    margin-bottom: 10px;
+    line-height: unset;
+    text-transform: none;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .toolsContainer-1edPuj {
+    padding-top: 0;
+    width: auto;
+    height: 30px;
+    top: 0;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin: 0;
+    right: 15px;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .tools-3-3s-N {
+    position: relative;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .tools-3-3s-N .closeButton-1tv5uR {
+    border: none;
+    width: 30px;
+    height: 30px;
+    flex: none;
+    border-radius: 0;
+    transform: none;
+    background: transparent;
+}
+
+.layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .tools-3-3s-N .keybind-KpFkfr {
+    display: none;
+}
+
+.container-3baos1 {
+    position: absolute;
+    width: calc(13.1% +  var(--container, 0px));
+    left: calc(var(--container, 0px) * -1);
+    bottom: 0;
+    background: var(--background-color-dark);
+}
+
+.base-3dtUhz, .sidebar-2K8pFh {
+    overflow: visible;
+}
+
+.guilds-1SWlCJ, .sidebar-2K8pFh {
+    padding-bottom: 52px;
+}
+
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
