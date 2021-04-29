@@ -1954,22 +1954,6 @@ svg.icon-JJBzjE.lighten-2aYaaU {
     display: none;
 }
 
-.container-3baos1 {
-    position: absolute;
-    width: calc(13.1% +  var(--container, 0px));
-    left: calc(var(--container, 0px) * -1);
-    bottom: 0;
-    background: var(--background-color-dark);
-}
-
-.base-3dtUhz, .sidebar-2K8pFh {
-    overflow: visible;
-}
-
-.guilds-1SWlCJ, .sidebar-2K8pFh {
-    padding-bottom: 52px;
-}
-
 /*top most titlebar syling - credits to ClearVision Team for the original idea and css*/
 
 .typeWindows-1za-n7 {
