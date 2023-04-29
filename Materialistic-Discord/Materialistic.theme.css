@@ -30,9 +30,9 @@
 	--members-width: 200px;
 	
 	/*Change the default server list sizing--*/
-	--server-icon-size: 30px;
+	--server-icon-size: 40px;
 	--server-icon-spacing: 7px;
-	--server-container-padding: 5px;
+	--server-container-padding: 7px;
 
 	/*--Change the default radial status settings--*/
 	--rs-small-spacing: 2px;
