@@ -10,10 +10,10 @@
 :root {
 	
 	/*--Change the default accent colors--*/
-	--accent-color-main: #b288e6;
-	--accent-color-main-opacity:#b288e6CC;
-	--accent-color-dark: #322c3a;
-	--accent-color-darker: #251f2d;
+	--accent-color-main: #00FFFF;
+	--accent-color-main-opacity:#00FFFF;
+	--accent-color-dark: #057878;
+	--accent-color-darker: #014545;
 	
 	/*--Change the default background colors--*/
 	--background-color-main: #212121;
